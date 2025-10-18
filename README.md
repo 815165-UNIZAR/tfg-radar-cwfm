@@ -12,6 +12,8 @@ Daniel Colás Sánchez
 ## 👨‍🏫 Directores
 - Íñigo Salinas Áriz
 - Carlos Heras Vila
+- Jorge Lanzuela Gonzalvo
+- Salvador Andrés
 
 ---
 
@@ -29,7 +31,7 @@ tfg-radar-cwfm/
 │   ├── radar_block.cpp
 │   └── testbench.cpp
 └── matlab/
-    ├── plot_radar_sin_handshake.m
+    ├── plot_radar_sin_handshake.mlx
     ├── radar_data_sin_handshake.csv
 ```
 
@@ -58,7 +60,7 @@ tfg-radar-cwfm/
 1. Ejecutar el test bench en Vitis HLS (genera `radar_data_sin_handshake.csv`)
 2. Abrir MATLAB
 3. Navegar a la carpeta `matlab/`
-4. Ejecutar: `plot_radar_sin_handshake`
+4. Ejecutar: `plot_radar_sin_handshake.mlx`
 
 ---
 
