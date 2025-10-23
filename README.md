@@ -6,10 +6,10 @@ Universidad de Zaragoza, 2026
 
 ---
 
-## 👨‍🎓 Autor
+## Autor
 Daniel Colás Sánchez
 
-## 👨‍🏫 Directores
+## Directores
 - Íñigo Salinas Áriz
 - Carlos Heras Vila
 - Jorge Lanzuela Gonzalvo
@@ -73,8 +73,6 @@ La memoria completa del TFG, incluyendo fundamento teórico, diseño del sistema
 ## 📧 Contacto
 
 Para consultas sobre este proyecto: 815165@unizar.es
-
----
 
 ## 📜 Licencia
 
