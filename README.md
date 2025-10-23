@@ -17,7 +17,7 @@ Daniel Colás Sánchez
 
 ---
 
-## 📖 Descripción
+## Descripción
 
 Este repositorio contiene el código fuente desarrollado para el TFG sobre el diseño e implementación de un radar de onda continua con modulación en frecuencia (CW-FM) operando en banda C. El sistema está diseñado como herramienta de investigación aplicable a estudios de detección y caracterización de drones mediante análisis de firma micro-Doppler.
 
@@ -37,7 +37,7 @@ tfg-radar-cwfm/
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Vitis HLS 2023.x**: Síntesis de alto nivel para FPGA
 - **Xilinx Zynq UltraScale+ MPSoC (RFSoC)**: Plataforma hardware
@@ -45,7 +45,7 @@ tfg-radar-cwfm/
 
 ---
 
-## 🚀 Cómo usar este código
+## Cómo usar este código
 
 ### Simulación en Vitis HLS
 
@@ -64,17 +64,17 @@ tfg-radar-cwfm/
 
 ---
 
-## 📄 Documentación completa
+## Documentación completa
 
 La memoria completa del TFG, incluyendo fundamento teórico, diseño del sistema y resultados experimentales, está disponible en el repositorio institucional de la Universidad de Zaragoza.
 
 ---
 
-## 📧 Contacto
+## Contacto
 
 Para consultas sobre este proyecto: 815165@unizar.es
 
-## 📜 Licencia
+## Licencia
 
 Este proyecto está bajo licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 ```
